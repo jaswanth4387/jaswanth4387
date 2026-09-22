@@ -18,43 +18,38 @@ I build secure, scalable web applications using Python, Django, and Flask — wi
 
 ## Tech stack
 
-**Backend**
-Python · Django · Flask · REST APIs
+**Backend** Python · Django · Flask · REST APIs
 
-**Frontend**
-HTML5 · CSS3 · JavaScript · Bootstrap
+**Frontend** HTML5 · CSS3 · JavaScript · Bootstrap
 
-**Database**
-MySQL · SQLite
+**Database** MySQL · SQLite
 
-**Cloud & Tools**
-AWS Basics · Git · GitHub · Postman · VS Code
+**Cloud & Tools** AWS Basics · Git · GitHub · Postman · VS Code
 
 ---
 
 ## Featured projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🛡️ Phishing Detection System | ML-based URL analyzer to detect malicious sites | Python, Flask, Scikit-learn | [Live](https://phishing-detection-system-rujb.onrender.com) · [Repo](https://github.com/jaswanth4387/Phishing_Detection_System) |
-| 🔍 Phish-Catcher | Real-time browser-side defense against web spoofing | Python, Django, ML | [Live](https://phish-catcher.onrender.com) · [Repo](https://github.com/jaswanth4387/Phish_catcher) |
-
+| Project                              | Description                                                                                   | Stack                              | Links                                                                                                                             |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 🛡️ Phishing Detection System         | ML-based URL analyzer to detect malicious sites                                                 | Python, Flask, Scikit-learn          |  · [Repo](https://github.com/jaswanth4387/Phishing_Detection_System)     |
+| 🔍 Phish-Catcher                      | Real-time browser-side defense against web spoofing                                             | Python, Django, ML                   |  · [Repo](https://github.com/jaswanth4387/Phish_catcher)                                  |
+| 🗳️ JanVote Portal (Secure Voting)    | Government election management platform with multi-department voter verification workflow      | Python, Flask, MySQL, Bootstrap      |  [Repo](https://github.com/jaswanth4387/secure-online-voting-system)                                          |
+| 🛒 ShopSphere                        | Full-stack e-commerce app with cart, checkout, Razorpay payments, and admin dashboard            | Python, Flask, MySQL, Bootstrap      |  [Repo](https://github.com/jaswanth4387/Shopsphere_ecommerece_website)                                        |
 
 ---
 
 ## Certifications
 
 - ☁️ NPTEL – Cloud Computing (IIT Kharagpur, 2024)
-- 🤖 Google Cloud – Gen AI Academy (2025)
+- 🤖 Google Cloud Data Track – Gen AI Academy (2025)
 - 🌐 AWS Cloud Internship – BrainOvision (Jan–Mar 2024)
 
 ---
 
 ## Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify)](https://jaswanthkrishna-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaswanth-krishna-jakkampudi-73107a2a1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthjakkampudi438@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify)](https://jaswanthkrishna-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaswanth-krishna-jakkampudi-73107a2a1/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthjakkampudi438@gmail.com)
 
 ---
 
