@@ -32,10 +32,10 @@ I build secure, scalable web applications using Python, Django, and Flask — wi
 
 | Project                              | Description                                                                                   | Stack                              | Links                                                                                                                             |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 🛡️ Phishing Detection System         | ML-based URL analyzer to detect malicious sites                                                 | Python, Flask, Scikit-learn          |  [Repo](https://github.com/jaswanth4387/Phishing_Detection_System)     |
+| 🛡️ Phishing Detection System         | ML-based URL analyzer to detect malicious sites                                                 | Python, Flask, Scikit-learn          |  [Repo](https://github.com/jaswanth4387/Phishing_Detection_System),    |
 | 🔍 Phish-Catcher                      | Real-time browser-side defense against web spoofing                                             | Python, Django, ML                   |  [Repo](https://github.com/jaswanth4387/Phish_catcher)                                  |
 | 🗳️ JanVote Portal (Secure Voting)    | Government election management platform with multi-department voter verification workflow      | Python, Flask, MySQL, Bootstrap      |  [Repo](https://github.com/jaswanth4387/secure-online-voting-system)                                          |
-| 🛒 ShopSphere                        | Full-stack e-commerce app with cart, checkout, Razorpay payments, and admin dashboard            | Python, Flask, MySQL, Bootstrap      |  [Repo](https://github.com/jaswanth4387/Shopsphere_ecommerece_website)                                        |
+| 🛒 ShopSphere                        | Full-stack e-commerce app with cart, checkout, Razorpay payments, and admin dashboard            | Python, Flask, MySQL, Bootstrap      |  [Repo](https://github.com/jaswanth4387/Shopsphere_ecommerece_website) [deploy](https://shopsphere-n9kc.onrender.com/)                                       |
 
 ---
 
